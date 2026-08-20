@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm ArcticFox!
 
-<!--
-**ArcticFox2029/ArcticFox2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Engineer** based in Thailand 🇹🇭
+🤫 Introvert dev building **no-hype, 100% free open-source tools** for the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise & Tech Stack
+
+#### 🐍 Core Languages & Scripting
+* **Python:** High-Performance Code & System Integration
+* **Shell Scripting:** System Automation & macOS CLI Utilities
+
+#### 🤖 AI, LLM & Agent Systems
+* **Architecture:** Hybrid AI Systems (Local & Cloud Infrastructure)
+* **RAG & Memory:** Multi-Tier Memory Systems, Knowledge Graphs & Vector Search
+* **Context Engineering:** Token Optimization & Long-Context Handling
+* **Evaluation & Guardrails:** Autonomous Agent Simulation & Safety Sandboxing
+
+#### 🏗️ Architecture & Database
+* **System Design:** Pragmatic, High-Availability & Asynchronous Architecture
+* **Static Analysis:** Code Navigation & Repository Architecture Indexing
+* **Database & Memory:** Multi-Tiered Memory Storage (Vault, Graph & Cache)
+
+#### ☸️ Infrastructure & Linux
+* **OS & System:** Linux Systems Expert & Kernel-Level Optimization
+* **Orchestration & Cluster:** Kubernetes (K8s) & Database Clustering
+* **Automation:** Ansible & CI/CD Pipeline Automation
+
+#### 🛡️ Security & Reliability
+* **Cybersecurity:** Whitehat Security Researcher *(Report Ref: PSIRT-0635901208)*
+* **Engineering Rigour:** Chaos Testing & Secret Redaction
+* **Resilience:** HMAC Verification, Network Protection & Zero-Downtime Tunnels
+
+---
+
+### 🚀 Featured Projects
+* 🦊 **[chamnan](https://github.com/ArcticFox2029/chamnan):** An architecture index Claude Code reads instead of scanning your repo, plus work state that survives compaction. Built for long-lived codebases.
+
+---
+
+### 🦊 About My Work
+I design pragmatic tools to solve real-world engineering pain points. No fluff, no marketing hype—just solid code built to handle heavy, production-grade workloads.
+
+Feel free to explore my repositories or leave feedback if my tools help your workflow!
