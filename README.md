@@ -31,6 +31,21 @@ I'm a **Senior Engineer** based in Thailand 🇹🇭<br>
 * **Cybersecurity:** Whitehat Security Researcher *(Report Ref: PSIRT-0635901208)*
 * **Engineering Rigour:** Chaos Testing & Secret Redaction
 * **Resilience:** HMAC Verification, Network Protection & Zero-Downtime Tunnels
+* **Outbound Data Control:** Local-First Redaction & Secret Boundary Design
+
+#### 🧪 Testing & Release Engineering
+* **Test Design:** Derived Regression Suites & Reproducible Release Gates
+* **Cross-Platform:** Linux, macOS & Windows Parity Testing
+* **Verification:** Self-Verifying Builds & Claim Auditing
+
+#### 🌍 Internationalization & Text
+* **Unicode:** Script-Agnostic Text Handling & Homoglyph Normalization
+* **Localization:** Multilingual Documentation & Detection Vocabularies
+
+#### 🔌 Agent Interoperability
+* **Multi-Agent Support:** Coding-Agent Integrations & Config Generation
+* **Polyglot Indexing:** Multi-Language Source Analysis
+* **Git Workflow:** Non-Destructive Hook Integration
 
 ---
 
