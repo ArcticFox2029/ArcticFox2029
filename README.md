@@ -16,6 +16,7 @@ I'm a **Senior Engineer** based in Thailand 🇹🇭<br>
 * **RAG & Memory:** Multi-Tier Memory Systems, Knowledge Graphs & Vector Search
 * **Context Engineering:** Token Optimization & Long-Context Handling
 * **Evaluation & Guardrails:** Autonomous Agent Simulation & Safety Sandboxing
+* **Agent Interoperability:** Generating Config Files for Other Coding Agents
 
 #### 🏗️ Architecture & Database
 * **System Design:** Pragmatic, High-Availability & Asynchronous Architecture
@@ -26,6 +27,7 @@ I'm a **Senior Engineer** based in Thailand 🇹🇭<br>
 * **OS & System:** Linux Systems Expert & Kernel-Level Optimization
 * **Orchestration & Cluster:** Kubernetes (K8s) & Database Clustering
 * **Automation:** Ansible & CI/CD Pipeline Automation
+* **Git Hooks:** Adding Checks Without Breaking the Ones Already There
 
 #### 🛡️ Security & Reliability
 * **Cybersecurity:** Whitehat Security Researcher *(Report Ref: PSIRT-0635901208)*
@@ -34,18 +36,13 @@ I'm a **Senior Engineer** based in Thailand 🇹🇭<br>
 * **Outbound Data Control:** Local-First Redaction & Secret Boundary Design
 
 #### 🧪 Testing & Release Engineering
-* **Test Design:** Derived Regression Suites & Reproducible Release Gates
+* **Test Design:** Regression Suites That Check the Whole Set, Not One Example
 * **Cross-Platform:** Linux, macOS & Windows Parity Testing
-* **Verification:** Self-Verifying Builds & Claim Auditing
+* **Verification:** Releases Anyone Can Re-Check for Themselves
 
 #### 🌍 Internationalization & Text
-* **Unicode:** Script-Agnostic Text Handling & Homoglyph Normalization
-* **Localization:** Multilingual Documentation & Detection Vocabularies
-
-#### 🔌 Agent Interoperability
-* **Multi-Agent Support:** Coding-Agent Integrations & Config Generation
-* **Polyglot Indexing:** Multi-Language Source Analysis
-* **Git Workflow:** Non-Destructive Hook Integration
+* **Unicode:** Handling Every Writing System & Catching Lookalike Characters
+* **Localization:** Multilingual Docs & Tools That Work Beyond English
 
 ---
 
