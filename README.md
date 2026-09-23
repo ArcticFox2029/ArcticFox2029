@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm ArcticFox!
 
-I'm a **Senior Engineer** <br>
+Building open-source tools for fun <br>
 🤫 Introvert dev building **no-hype, 100% free open-source tools** for the community.
 
 ---
